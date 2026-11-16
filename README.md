@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # siap_bunda
 
 A new Flutter project.
@@ -15,3 +16,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# SiapBunda
+Aplikasi edukasi persiapan menjadi orang tua
+ 
+Nama: Virgi Al Farizky Saputra
+NIM: 20240801063
+>>>>>>> d17421dd5f3830b3d3192e7266953eda5b353d65

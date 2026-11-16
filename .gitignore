@@ -46,3 +46,10 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+<<<<<<< HEAD
+=======
+
+/lib/oracleJdk-27/
+
+lib/oracleJdk-27/
+>>>>>>> d17421dd5f3830b3d3192e7266953eda5b353d65

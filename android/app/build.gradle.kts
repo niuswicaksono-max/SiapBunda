@@ -7,7 +7,11 @@ plugins {
 android {
     namespace = "com.example.siap_bunda"
     compileSdk = flutter.compileSdkVersion
+<<<<<<< HEAD
     ndkVersion = flutter.ndkVersion
+=======
+    // ndkVersion = flutter.ndkVersion
+>>>>>>> d17421dd5f3830b3d3192e7266953eda5b353d65
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
